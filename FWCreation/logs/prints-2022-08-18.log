@@ -1,0 +1,67 @@
+18:03:36.535 [main] INFO  resources.base - Navigated to Home page
+18:03:41.843 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vpvPIAQ
+18:03:44.509 [main] INFO  resources.base - Driver is initialized
+18:03:45.685 [main] INFO  resources.base - Navigated to Home page
+18:03:51.575 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vsy2IAA
+18:03:54.268 [main] INFO  resources.base - Driver is initialized
+18:03:55.588 [main] INFO  resources.base - Navigated to Home page
+18:04:01.150 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vrNgIAI
+18:05:22.661 [main] INFO  resources.base - Driver is initialized
+18:05:23.976 [main] INFO  resources.base - Navigated to Home page
+18:05:32.338 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vrfQIAQ
+18:05:39.228 [main] INFO  resources.base - Driver is initialized
+18:05:40.435 [main] INFO  resources.base - Navigated to Home page
+18:05:46.502 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vpqYIAQ
+18:05:49.262 [main] INFO  resources.base - Driver is initialized
+18:05:50.505 [main] INFO  resources.base - Navigated to Home page
+18:05:56.388 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vtNpIAI
+18:05:59.079 [main] INFO  resources.base - Driver is initialized
+18:06:00.475 [main] INFO  resources.base - Navigated to Home page
+18:06:06.104 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003vrkEIAQ
+18:23:24.757 [main] INFO  resources.base - Driver is initialized
+18:23:37.625 [main] INFO  resources.base - Driver is initialized
+18:23:38.922 [main] INFO  resources.base - Navigated to Home page
+18:23:40.867 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: Mentor
+18:31:11.605 [main] INFO  resources.base - Driver is initialized
+18:31:12.858 [main] INFO  resources.base - Navigated to Home page
+18:31:14.519 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: Mentor
+18:31:52.974 [main] INFO  resources.base - Driver is initialized
+18:31:54.188 [main] INFO  resources.base - Navigated to Home page
+18:31:55.342 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: Mentor
+18:37:17.189 [main] INFO  resources.base - Driver is initialized
+18:37:18.421 [main] INFO  resources.base - Navigated to Home page
+18:37:19.904 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: IRT
+18:40:15.469 [main] INFO  resources.base - Driver is initialized
+18:40:16.791 [main] INFO  resources.base - Navigated to Home page
+18:40:18.239 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: IRT
+18:41:04.805 [main] INFO  resources.base - Driver is initialized
+18:41:06.140 [main] INFO  resources.base - Navigated to Home page
+18:41:06.868 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: IRT
+18:41:50.785 [main] INFO  resources.base - Driver is initialized
+18:41:52.081 [main] INFO  resources.base - Navigated to Home page
+18:41:52.814 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: IRT
+18:42:36.123 [main] INFO  resources.base - Driver is initialized
+18:42:37.534 [main] INFO  resources.base - Navigated to Home page
+18:42:38.179 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: IRT
+18:46:18.535 [main] INFO  resources.base - Driver is initialized
+18:46:19.774 [main] INFO  resources.base - Navigated to Home page
+18:46:21.373 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+18:46:49.910 [main] INFO  resources.base - Driver is initialized
+18:46:51.262 [main] INFO  resources.base - Navigated to Home page
+18:46:52.634 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+18:48:26.741 [main] INFO  resources.base - Driver is initialized
+18:48:28.110 [main] INFO  resources.base - Navigated to Home page
+18:48:29.736 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+18:49:22.333 [main] INFO  resources.base - Driver is initialized
+18:49:24.092 [main] INFO  resources.base - Navigated to Home page
+18:49:25.232 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+18:50:05.501 [main] INFO  resources.base - Driver is initialized
+18:50:11.030 [main] INFO  resources.base - Navigated to Home page
+18:50:12.021 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+18:50:54.942 [main] INFO  resources.base - Driver is initialized
+18:50:56.567 [main] INFO  resources.base - Navigated to Home page
+18:50:57.859 [main] INFO  testCases.test_IT_RenewalUpgrades - Logging in as: BLC
+19:26:30.680 [main] INFO  resources.base - Driver is initialized
+19:26:32.328 [main] INFO  resources.base - Navigated to Home page
+19:26:34.027 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:27:30.188 [main] INFO  resources.base - Driver is initialized

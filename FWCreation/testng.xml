@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+<!--parallel="methods" thread-count="2"!-->
+   <listeners>
+        <listener class-name="Analyzer.MyTransformer"/>
+        <listener class-name="testCases.Listeners"/>
+  </listeners>
+  <test name="Test">
+  <groups>
+			<run>
+				<include name="sanity" />
+			</run>
+		</groups>
+    <classes>
+   <!-- <class name="testCases.test_StudentOrderCreation"/> 
+    <class name="testCases.test_CollectionFlow"/>-->
+    <class name="testCases.test_BLC"/>
+    <class name="testCases.test_NeoClasses"/>
+    <class name="testCases.test_MLP"/>
+    <class name="testCases.test_WHJ"/>
+    <class name="testCases.test_CustomerDelight"/>
+    <class name="testCases.test_LSPD_CSO"/>
+    <class name="testCases.test_ByjusWallet"/>
+    <class name="testCases.test_AkshLiveClsses"/>
+    <class name="testCases.test_Logistics"/>
+    <class name="testCases.test_MK"/>
+    <class name="testCases.test_MK_Retention"/>
+    <class name="testCases.test_RefundProcessReq"/>
+    <class name="testCases.test_RetentionProcess"/>
+    <class name="testCases.test_EasyPayCollection"/>
+    <class name="testCases.test_ButtonCheckPE"/>
+    <class name="testCases.test_ButtonCheckMentor"/>
+    <class name="testCases.test_ButtonCheckRetention"/>
+    <class name="testCases.test_ButtonCheckRetentionManager"/>
+    <class name="testCases.test_ButtonCheckBLC"/>
+    <class name="testCases.test_ButtonCheckCS"/>     
+    <class name="testCases.test_ButtonCheckPS"/>
+    <class name="testCases.test_ButtonCheckLogistics"/>
+    <class name="testCases.test_ButtonCheckOrderPunchingTeam"/>
+    <class name="testCases.test_ButtonCheckOrderConfirmationTeam"/>
+    <!--<class name="testCases.test_Retention_SFTNL_5947"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

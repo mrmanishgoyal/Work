@@ -1,0 +1,21 @@
+<head>
+<style>
+.exp{visibility: hidden;}
+</style>
+</head>
+<body>
+<h2>Click on the below button after IVR selection is made.</h2>
+<button onclick="unhide()">Go!</button>
+<div class="exp">
+    <p class="and">Selection has been made!</p>
+</div>
+<script>
+function unhide() {
+    var hid = document.getElementsByClassName("exp");
+    // Emulates jQuery $(element).is(':hidden');
+    if(hid[0].offsetWidth > 0 && hid[0].offsetHeight > 0) {
+        hid[0].style.visibility = "visible";
+    }
+}
+</script>
+</body>

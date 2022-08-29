@@ -1,0 +1,26 @@
+19:27:31.541 [main] INFO  resources.base - Navigated to Home page
+19:27:32.704 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:43:42.237 [main] INFO  resources.base - Driver is initialized
+19:43:44.053 [main] INFO  resources.base - Navigated to Home page
+19:43:45.599 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:52:15.245 [main] INFO  resources.base - Driver is initialized
+19:52:16.925 [main] INFO  resources.base - Navigated to Home page
+19:52:18.553 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:54:54.749 [main] INFO  resources.base - Driver is initialized
+19:54:56.074 [main] INFO  resources.base - Navigated to Home page
+19:54:57.633 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:55:25.917 [main] INFO  resources.base - Driver is initialized
+19:55:27.158 [main] INFO  resources.base - Navigated to Home page
+19:55:28.119 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:56:22.648 [main] INFO  resources.base - Driver is initialized
+19:56:23.821 [main] INFO  resources.base - Navigated to Home page
+19:56:24.782 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:57:11.091 [main] INFO  resources.base - Driver is initialized
+19:57:12.220 [main] INFO  resources.base - Navigated to Home page
+19:57:13.504 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+19:59:56.636 [main] INFO  resources.base - Driver is initialized
+19:59:57.915 [main] INFO  resources.base - Navigated to Home page
+19:59:59.583 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT
+20:01:49.143 [main] INFO  resources.base - Driver is initialized
+20:01:50.303 [main] INFO  resources.base - Navigated to Home page
+20:01:51.839 [main] INFO  testCases.test_IT_Logistics - Logging in as: IRT

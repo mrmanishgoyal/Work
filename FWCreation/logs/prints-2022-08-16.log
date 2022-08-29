@@ -1,0 +1,73 @@
+18:37:38.778 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+18:49:57.972 [main] INFO  resources.base - Driver is initialized
+18:49:59.375 [main] INFO  resources.base - Navigated to Home page
+18:50:00.722 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+18:50:53.047 [main] INFO  resources.base - Driver is initialized
+18:50:54.497 [main] INFO  resources.base - Navigated to Home page
+18:50:55.371 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+18:51:47.057 [main] INFO  resources.base - Driver is initialized
+18:51:48.382 [main] INFO  resources.base - Navigated to Home page
+18:51:49.100 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+18:52:40.212 [main] INFO  resources.base - Driver is initialized
+18:52:41.448 [main] INFO  resources.base - Navigated to Home page
+18:52:42.330 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+18:53:31.556 [main] INFO  resources.base - Driver is initialized
+18:53:32.936 [main] INFO  resources.base - Navigated to Home page
+18:53:34.041 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:06:56.390 [main] INFO  resources.base - Driver is initialized
+20:06:57.726 [main] INFO  resources.base - Navigated to Home page
+20:06:58.799 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:07:42.907 [main] INFO  resources.base - Driver is initialized
+20:07:44.175 [main] INFO  resources.base - Navigated to Home page
+20:07:45.101 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:08:32.189 [main] INFO  resources.base - Driver is initialized
+20:08:33.268 [main] INFO  resources.base - Navigated to Home page
+20:08:34.384 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:10:13.258 [main] INFO  resources.base - Driver is initialized
+20:10:14.537 [main] INFO  resources.base - Navigated to Home page
+20:10:15.625 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:32:25.207 [main] INFO  resources.base - Driver is initialized
+20:32:26.493 [main] INFO  resources.base - Navigated to Home page
+20:32:27.722 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:33:15.780 [main] INFO  resources.base - Driver is initialized
+20:33:17.014 [main] INFO  resources.base - Navigated to Home page
+20:33:17.893 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:34:59.621 [main] INFO  resources.base - Driver is initialized
+20:35:00.905 [main] INFO  resources.base - Navigated to Home page
+20:35:01.977 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:51:57.925 [main] INFO  resources.base - Driver is initialized
+20:51:59.311 [main] INFO  resources.base - Navigated to Home page
+20:52:00.477 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:53:18.328 [main] INFO  resources.base - Driver is initialized
+20:53:19.640 [main] INFO  resources.base - Navigated to Home page
+20:53:20.840 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:54:34.320 [main] INFO  resources.base - Driver is initialized
+20:54:35.526 [main] INFO  resources.base - Navigated to Home page
+20:54:36.635 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:56:35.675 [main] INFO  resources.base - Driver is initialized
+20:56:36.844 [main] INFO  resources.base - Navigated to Home page
+20:56:38.001 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:57:09.018 [main] INFO  resources.base - Driver is initialized
+20:57:10.779 [main] INFO  resources.base - Navigated to Home page
+20:57:11.896 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:58:00.005 [main] INFO  resources.base - Driver is initialized
+20:58:01.791 [main] INFO  resources.base - Navigated to Home page
+20:58:02.372 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:58:47.398 [main] INFO  resources.base - Driver is initialized
+20:58:48.860 [main] INFO  resources.base - Navigated to Home page
+20:58:49.441 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+20:59:33.266 [main] INFO  resources.base - Driver is initialized
+20:59:34.797 [main] INFO  resources.base - Navigated to Home page
+20:59:35.232 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+21:00:19.606 [main] INFO  resources.base - Driver is initialized
+21:00:20.904 [main] INFO  resources.base - Navigated to Home page
+21:00:21.420 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+21:01:03.994 [main] INFO  resources.base - Driver is initialized
+21:01:05.121 [main] INFO  resources.base - Navigated to Home page
+21:01:05.692 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+21:01:50.628 [main] INFO  resources.base - Driver is initialized
+21:01:51.919 [main] INFO  resources.base - Navigated to Home page
+21:01:52.437 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE
+21:02:38.269 [main] INFO  resources.base - Driver is initialized
+21:02:39.401 [main] INFO  resources.base - Navigated to Home page
+21:02:39.836 [main] INFO  testCases.test_IT_TechK4_10 - Logging in as: PE

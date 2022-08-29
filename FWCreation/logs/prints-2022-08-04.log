@@ -1,0 +1,61 @@
+18:35:58.682 [main] INFO  resources.base - Navigated to Home page
+18:36:05.021 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nuIgIAI
+18:36:07.131 [main] INFO  resources.base - Driver is initialized
+18:36:08.064 [main] INFO  resources.base - Navigated to Home page
+18:36:13.467 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nnp5IAA
+18:36:15.616 [main] INFO  resources.base - Driver is initialized
+18:36:16.602 [main] INFO  resources.base - Navigated to Home page
+18:36:21.705 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nvY9IAI
+18:36:23.963 [main] INFO  resources.base - Driver is initialized
+18:36:24.964 [main] INFO  resources.base - Navigated to Home page
+18:36:30.185 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003ntT7IAI
+18:36:32.471 [main] INFO  resources.base - Driver is initialized
+18:36:33.417 [main] INFO  resources.base - Navigated to Home page
+18:36:39.730 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nv56IAA
+18:36:41.986 [main] INFO  resources.base - Driver is initialized
+18:36:43.041 [main] INFO  resources.base - Navigated to Home page
+18:36:47.101 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nyxNIAQ
+18:36:49.281 [main] INFO  resources.base - Driver is initialized
+18:36:50.389 [main] INFO  resources.base - Navigated to Home page
+18:36:55.955 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nvptIAA
+18:36:58.133 [main] INFO  resources.base - Driver is initialized
+18:36:59.248 [main] INFO  resources.base - Navigated to Home page
+18:37:03.510 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nufIIAQ
+18:37:05.872 [main] INFO  resources.base - Driver is initialized
+18:37:06.799 [main] INFO  resources.base - Navigated to Home page
+18:37:11.520 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nym6IAA
+18:37:14.604 [main] INFO  resources.base - Driver is initialized
+18:37:15.703 [main] INFO  resources.base - Navigated to Home page
+18:37:20.368 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nxlDIAQ
+18:37:22.903 [main] INFO  resources.base - Driver is initialized
+18:37:23.894 [main] INFO  resources.base - Navigated to Home page
+18:37:29.322 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nyyzIAA
+18:37:32.296 [main] INFO  resources.base - Driver is initialized
+18:37:33.399 [main] INFO  resources.base - Navigated to Home page
+18:37:38.857 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nyz0IAA
+18:37:41.771 [main] INFO  resources.base - Driver is initialized
+18:37:42.971 [main] INFO  resources.base - Navigated to Home page
+18:37:48.833 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nwh5IAA
+18:37:51.238 [main] INFO  resources.base - Driver is initialized
+18:37:52.350 [main] INFO  resources.base - Navigated to Home page
+18:37:58.742 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nz0bIAA
+18:38:02.020 [main] INFO  resources.base - Driver is initialized
+18:38:03.015 [main] INFO  resources.base - Navigated to Home page
+18:38:08.639 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nv57IAA
+18:38:11.959 [main] INFO  resources.base - Driver is initialized
+18:38:13.022 [main] INFO  resources.base - Navigated to Home page
+18:38:19.197 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nyisIAA
+18:38:22.156 [main] INFO  resources.base - Driver is initialized
+18:38:23.115 [main] INFO  resources.base - Navigated to Home page
+18:38:28.812 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nwvcIAA
+18:38:31.554 [main] INFO  resources.base - Driver is initialized
+18:38:32.586 [main] INFO  resources.base - Navigated to Home page
+18:38:38.977 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nwxCIAQ
+18:38:41.645 [main] INFO  resources.base - Driver is initialized
+18:38:42.726 [main] INFO  resources.base - Navigated to Home page
+18:38:47.436 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001C2000003nyMIIAY
+19:00:22.673 [main] INFO  resources.base - Driver is initialized
+19:00:23.764 [main] INFO  resources.base - Navigated to Home page
+19:00:24.684 [main] INFO  testCases.test_BLC - Logging in as Admin to UAT
+19:00:34.095 [main] INFO  testCases.test_BLC - Submitting the Account creation payload
+19:00:41.232 [main] INFO  payLoad.payLoad_BTLA - The response is: {"compositeResponse":[{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"RefStudent52514503981"},{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"RefSSORD52514503981"},{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"orderList"},{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"paymentList"},{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"STUPRGM8636"},{"body":[{"success":false,"errors":[{"statusCode":"MISSING_ARGUMENT","message":"Id not specified in an update call","fields":[]}]},{"success":false,"errors":[{"statusCode":"MISSING_ARGUMENT","message":"Id not specified in an update call","fields":[]}]}],"httpHeaders":{},"httpStatusCode":200,"referenceId":"studentOrderList"},{"body":[{"errorCode":"PROCESSING_HALTED","message":"The transaction was rolled back since another operation in the same transaction failed."}],"httpHeaders":{},"httpStatusCode":400,"referenceId":"RefPaymentPD152514503981"}]}

@@ -1,0 +1,64 @@
+14:09:46.068 [main] INFO  resources.base - Driver is initialized
+14:09:47.227 [main] INFO  resources.base - Navigated to Home page
+14:10:33.852 [main] INFO  resources.base - Driver is initialized
+14:10:35.017 [main] INFO  resources.base - Navigated to Home page
+14:11:15.489 [main] INFO  resources.base - Driver is initialized
+14:11:16.500 [main] INFO  resources.base - Navigated to Home page
+14:12:01.482 [main] INFO  resources.base - Driver is initialized
+14:12:02.540 [main] INFO  resources.base - Navigated to Home page
+14:12:42.665 [main] INFO  resources.base - Driver is initialized
+14:12:43.855 [main] INFO  resources.base - Navigated to Home page
+16:33:24.241 [main] INFO  resources.base - Driver is initialized
+16:33:25.443 [main] INFO  resources.base - Navigated to Home page
+16:33:36.445 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxR3YAK
+16:33:42.678 [main] INFO  resources.base - Driver is initialized
+16:33:43.992 [main] INFO  resources.base - Navigated to Home page
+16:33:50.237 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxSfYAK
+16:33:54.016 [main] INFO  resources.base - Driver is initialized
+16:33:55.355 [main] INFO  resources.base - Navigated to Home page
+16:34:01.181 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxUHYA0
+16:34:03.679 [main] INFO  resources.base - Driver is initialized
+16:34:04.974 [main] INFO  resources.base - Navigated to Home page
+16:34:10.439 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxVtYAK
+16:34:12.766 [main] INFO  resources.base - Driver is initialized
+16:34:14.518 [main] INFO  resources.base - Navigated to Home page
+16:34:20.073 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxXVYA0
+16:34:22.577 [main] INFO  resources.base - Driver is initialized
+16:34:23.910 [main] INFO  resources.base - Navigated to Home page
+16:34:29.844 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QwurYAC
+16:34:32.295 [main] INFO  resources.base - Driver is initialized
+16:34:33.474 [main] INFO  resources.base - Navigated to Home page
+16:34:39.386 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxajYAC
+16:34:41.873 [main] INFO  resources.base - Driver is initialized
+16:34:43.045 [main] INFO  resources.base - Navigated to Home page
+16:34:47.134 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000Qvh4YAC
+16:34:49.410 [main] INFO  resources.base - Driver is initialized
+16:34:50.632 [main] INFO  resources.base - Navigated to Home page
+16:34:56.493 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000Qx2sYAC
+16:34:59.007 [main] INFO  resources.base - Driver is initialized
+16:35:00.226 [main] INFO  resources.base - Navigated to Home page
+16:35:06.390 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxdxYAC
+16:35:08.644 [main] INFO  resources.base - Driver is initialized
+16:35:09.776 [main] INFO  resources.base - Navigated to Home page
+16:35:15.397 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxhBYAS
+16:35:17.700 [main] INFO  resources.base - Driver is initialized
+16:35:19.042 [main] INFO  resources.base - Navigated to Home page
+16:35:25.049 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxinYAC
+16:35:27.553 [main] INFO  resources.base - Driver is initialized
+16:35:28.768 [main] INFO  resources.base - Navigated to Home page
+16:35:34.376 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxKcYAK
+16:35:36.712 [main] INFO  resources.base - Driver is initialized
+16:35:38.049 [main] INFO  resources.base - Navigated to Home page
+16:35:43.581 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QxkPYAS
+16:35:46.073 [main] INFO  resources.base - Driver is initialized
+16:35:47.155 [main] INFO  resources.base - Navigated to Home page
+16:35:52.866 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QvxAYAS
+16:35:55.452 [main] INFO  resources.base - Driver is initialized
+16:35:56.679 [main] INFO  resources.base - Navigated to Home page
+16:36:02.451 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000Qxm1YAC
+16:36:05.185 [main] INFO  resources.base - Driver is initialized
+16:36:06.463 [main] INFO  resources.base - Navigated to Home page
+16:36:12.216 [main] INFO  testCases.BulkRunAllPrograms_2DiffPrograms - The value of id is: 001JU000000QwhuYAC
+17:34:38.341 [main] INFO  resources.base - Driver is initialized
+17:34:39.336 [main] INFO  resources.base - Navigated to Home page
+17:35:39.182 [main] INFO  resources.base - Driver is initialized
